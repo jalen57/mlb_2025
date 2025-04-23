@@ -1,0 +1,5 @@
+version: '3.6'
+services:
+  ai-european-football-api:
+    ports:
+      - "80:80"
