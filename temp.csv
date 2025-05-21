@@ -1,0 +1,16 @@
+,game_id,game_datetime,game_date,home_id,away_id,status,game_type,double_header,game_num,home_team,away_team,forecast_timestamp,pop_adjusted,cloud_cover,desc,dewpoint,temp_feelslike,sky_condition,precipitation,pop,precipitation_rate,relative_humidity,temperature,thunderstorm_prob,wind_direction,wind_speed,surface_pressure
+0,777869,2025-05-18T17:05:00Z,2025-05-18,140,117,I,R,N,1,Texas Rangers,Houston Astros,2025-05-18T17:00:00Z,10,87,Mostly Cloudy,77.0,92.0,24,0,10,0.0,81,83.0,10,183,18.0,29.19
+1,777873,2025-05-18T17:35:00Z,2025-05-18,110,120,I,R,N,1,Baltimore Orioles,Washington Nationals,2025-05-18T17:00:00Z,0,9,Sunny,49.0,76.0,7,0,0,0.0,39,76.0,0,281,16.0,29.67
+2,777880,2025-05-18T17:35:00Z,2025-05-18,143,134,I,R,N,1,Philadelphia Phillies,Pittsburgh Pirates,2025-05-18T17:00:00Z,0,2,Sunny,51.0,75.0,7,0,0,0.0,43,75.0,0,280,17.0,29.65
+3,777876,2025-05-18T17:35:00Z,2025-05-18,111,144,I,R,N,1,Boston Red Sox,Atlanta Braves,2025-05-18T17:00:00Z,10,68,Partly Cloudy,51.0,70.0,3,0,5,0.0,52,70.0,0,269,9.0,29.4
+4,777871,2025-05-18T17:37:00Z,2025-05-18,141,116,I,R,N,1,Toronto Blue Jays,Detroit Tigers,2025-05-18T17:00:00Z,0,88,Mostly Cloudy,50.0,59.0,24,0,0,0.0,70,59.0,0,297,14.0,29.08
+5,777874,2025-05-18T17:40:00Z,2025-05-18,113,114,I,R,N,1,Cincinnati Reds,Cleveland Guardians,2025-05-18T17:00:00Z,0,19,Mostly Sunny,54.0,69.0,26,0,0,0.0,58,69.0,0,295,8.0,28.98
+6,777877,2025-05-18T17:40:00Z,2025-05-18,146,139,I,R,N,1,Miami Marlins,Tampa Bay Rays,2025-05-18T17:00:00Z,0,14,Mostly Sunny,74.0,93.0,26,0,0,0.0,71,85.0,0,157,6.0,29.95
+7,777864,2025-05-18T18:10:00Z,2025-05-18,118,138,I,R,N,1,Kansas City Royals,St. Louis Cardinals,2025-05-18T18:00:00Z,0,7,Sunny,53.0,72.0,7,0,0,0.0,50,72.0,0,98,12.0,28.92
+8,777865,2025-05-18T18:10:00Z,2025-05-18,158,142,I,R,N,1,Milwaukee Brewers,Minnesota Twins,2025-05-18T18:00:00Z,0,25,Hazy,45.0,39.0,23,0,0,0.0,94,46.0,0,330,17.0,29.3
+9,777872,2025-05-18T18:20:00Z,2025-05-18,112,145,P,R,N,1,Chicago Cubs,Chicago White Sox,2025-05-18T18:00:00Z,0,13,Mostly Sunny,48.0,66.0,26,0,0,0.0,51,66.0,0,347,7.0,29.23
+10,777867,2025-05-18T20:05:00Z,2025-05-18,137,133,P,R,N,1,San Francisco Giants,Athletics,2025-05-18T20:00:00Z,0,3,Sunny,53.0,70.0,7,0,0,0.0,55,70.0,0,297,6.0,29.57
+11,777870,2025-05-18T20:10:00Z,2025-05-18,109,115,P,R,N,1,Arizona Diamondbacks,Colorado Rockies,2025-05-18T20:00:00Z,0,2,Sunny,34.0,79.0,7,0,0,0.0,20,79.0,0,281,12.0,28.57
+12,777866,2025-05-18T20:10:00Z,2025-05-18,119,108,P,R,N,1,Los Angeles Dodgers,Los Angeles Angels,2025-05-18T20:00:00Z,0,18,Mostly Sunny,53.0,67.0,26,0,0,0.0,61,67.0,0,221,8.0,29.81
+13,777868,2025-05-18T20:10:00Z,2025-05-18,135,136,P,R,N,1,San Diego Padres,Seattle Mariners,2025-05-18T20:00:00Z,0,50,Partly Cloudy,54.0,64.0,3,0,0,0.0,70,64.0,0,269,11.0,29.53
+14,777878,2025-05-18T23:10:00Z,2025-05-18,147,121,S,R,N,1,New York Yankees,New York Mets,2025-05-18T23:00:00Z,10,57,Partly Cloudy,55.0,68.0,3,0,10,0.0,64,68.0,0,289,15.0,29.56

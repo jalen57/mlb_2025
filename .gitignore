@@ -1,0 +1,10 @@
+# Ignore Python bytecode cache
+__pycache__/
+**/__pycache__/
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/

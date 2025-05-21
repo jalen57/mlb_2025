@@ -56,3 +56,24 @@ def put_pregame_odds(
     return response
     
 
+
+
+@router.put(
+    '/odds/live',
+    summary='Runs odds scraping through optic odds for pregame status matches'
+)
+def put_live_odds(
+    start_date: str = Query(
+        None,
+        description='When given, only return predictions for specified player(s)'
+    ),
+    end_date: str = Query(
+        None,
+        description='When given, only return predictions for specified player(s)'
+    ),
+):
+    
+    response = update_live_odds(start_date=start_date, end_date=end_date)
+    return response
+    
+
